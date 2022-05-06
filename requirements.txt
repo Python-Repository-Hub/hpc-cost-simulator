@@ -9,6 +9,7 @@ pytest
 pytest-order
 PyYAML==5.4.1
 requests==2.25.1
+schema
 sphinx
 #turtle
 types-PyYAML
